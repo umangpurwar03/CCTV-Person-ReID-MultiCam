@@ -15,7 +15,7 @@ The objective of this assignment is to assess your computer vision skills in per
 ### Step 2: Person Detection and Tracking
 - `person_detection`: For detecting Person i have used YOLO8m model
 - `tracking_algorithm`: Deep SHORT tracking algorithm to track individuals across frames and camera views.
--[**`track.py`**](track.py) you can i find the python code over there
+- [**`track.py`**](track.py) you can i find the python code over there
 
 ### Feature Extraction 
 - [**`feature_helping_function.py`**](feature_helping_function.py):In this i have defined function to extract features
