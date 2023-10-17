@@ -10,13 +10,13 @@ The objective of this assignment is to assess your computer vision skills in per
 ## Instructions:
 
 ### Camera Callibration
-[**`calibration.py`**](calibration.py): The openCv is used to calibrate all the camera vedios present in Wildtrack dataset
+-[**`calibration.py`**](calibration.py): The openCv is used to calibrate all the camera vedios present in Wildtrack dataset
 
 ### Step 2: Person Detection and Tracking
-`person_detection`: For detecting Person i have used YOLO8m model
-`tracking_algorithm`: Deep SHORT tracking algorithm to track individuals across frames and camera views.
+-`person_detection`: For detecting Person i have used YOLO8m model
+-`tracking_algorithm`: Deep SHORT tracking algorithm to track individuals across frames and camera views.
 [**`track.py`**](track.py) you can i find the python code over there
 
 ### Feature Extraction 
-[**`feature_helping_function.py`**](feature_helping_function.py):In this i have defined function to extract features
-[**`feature_tracking.py`**](feature_tracking.py): In this i have collaborated all the camera callibration tracking detection and feature extraction.
+-[**`feature_helping_function.py`**](feature_helping_function.py):In this i have defined function to extract features
+-[**`feature_tracking.py`**](feature_tracking.py): In this i have collaborated all the camera callibration tracking detection and feature extraction.
